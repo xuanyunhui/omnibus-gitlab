@@ -1,0 +1,4 @@
+ACKAGECLOUD_REPO=gitlab-ce
+RELEASE_PACKAGE=gitlab-ce
+RELEASE_VERSION=8.0.5-ce.0
+DOWNLOAD_URL=http://mirrors.zju.edu.cn/gitlab-ce/ubuntu/pool/trusty/main/g/gitlab-ce/gitlab-ce_8.0.5-ce.0_amd64.deb
